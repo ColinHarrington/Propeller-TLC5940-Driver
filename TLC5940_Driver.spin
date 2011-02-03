@@ -1,7 +1,7 @@
 ''**************************************
 ''
 '' Driver for the TLC5940 chip for use on the Parallax Propeller
-'' Adapted from the Brillidea Propeller Library
+'' Adapted from the Brilldea Propeller Library
 ''
 '' Written by Heath Paddock and Colin Harrington
 ''
