@@ -4,13 +4,15 @@
 ''
 ''  Updated: February 2, 2011
 ''
+''  Heath Paddock
+''  Colin Harrington
+''
 ''Description:
 ''This program sends grey scale data to TI TLC5940
 ''LED control chips wired in series.
 ''
 ''This program launches a cog, configures the I/O.
-''This program only uses the upper 8 bits of the 12 bits
-''available for each channel.  The data is loaded into a
+''The data is loaded into a
 ''buffer.  There is a two buffer system.  Data is loaded
 ''into the offscreen buffer.  When ready the offscreen buffer
 ''is copied to the onscreen buffer.  This program runs at
